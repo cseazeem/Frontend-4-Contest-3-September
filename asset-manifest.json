@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cseazeem/Frontend-4-Contest-3-September.git/static/css/main.f8bb2212.css",
+    "main.js": "/cseazeem/Frontend-4-Contest-3-September.git/static/js/main.e082a90d.js",
+    "index.html": "/cseazeem/Frontend-4-Contest-3-September.git/index.html",
+    "main.f8bb2212.css.map": "/cseazeem/Frontend-4-Contest-3-September.git/static/css/main.f8bb2212.css.map",
+    "main.e082a90d.js.map": "/cseazeem/Frontend-4-Contest-3-September.git/static/js/main.e082a90d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8bb2212.css",
+    "static/js/main.e082a90d.js"
+  ]
+}
